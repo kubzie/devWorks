@@ -1,6 +1,6 @@
 # DevConnector
 
-> Small social network app built with the MERN stack. This is part of my "MERN Stack Front To Back" Udemy course
+> Small social network app built with the MERN stack. This is part of my "MERN Stack Front To Back" Udemy course by Brad Travery. The project has been used by Kuber Singh for learning purposes and modified / personalised for learning use case. 
 
 ## Quick Start
 
@@ -25,10 +25,14 @@ npm run client
 
 ## App Info
 
-### Author
+### Original Author
 
 Brad Traversy
 [Traversy Media](http://www.traversymedia.com)
+
+### Modified By 
+
+Kuber Singh
 
 ### Version
 
